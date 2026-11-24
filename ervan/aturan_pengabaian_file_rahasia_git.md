@@ -1,0 +1,14 @@
+# File konfigurasi sensitif & API Keys (TIDAK BOLEH masuk ke GitHub)
+config.js
+.env
+.env.local
+.env.*.local
+
+# File sistem & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies (jika menggunakan bundler di masa depan)
+node_modules/
